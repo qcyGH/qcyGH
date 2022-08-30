@@ -8,9 +8,18 @@
 ![SASS](https://img.shields.io/badge/SASS-181818?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JQuery](https://img.shields.io/badge/JQuery-181818?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Liquid](https://img.shields.io/badge/Liquid-181818?style=for-the-badge&logo=data:assets/liquid-logo.png;base64&logoColor=0769AD)
+![Liquid](https://img.shields.io/badge/Liquid-181818?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGSSURBVHgBrZK5SkNREIb/e7MoKK64obhgIXaWWvkIWtqKoIiF72GliNGYwtIX0EIQfAALI4KNTRoXsEliSMTk3vidnBsSTCSKDsw5c2b9Z+ZIfySnufpgTor6kv8hlTulUBn5Sdp4bpEgPk7ApBS5kdbeGhPvT0lhkm2mGm06JHBnWC0pNg/CZn67M/oxxRabVP8NnfTYOdGQVZT7OVLS0TbyreTioAX4nuExJ6cbZqAaxf4qre5JiYyJdG2CaMjeziSqWZyWpNIp7wm4A0MfOm43yXsw8PUrp30cryBmJW+E+yXAOUT1aQKvrLMT+JbZglMgWZe0fhG0IPbrpdn3O3IRmWQh4/RAAOv0aMn36BjZMTKInfa6FkrBHDxTPY+xzyYt5XCmkos+kreyHyBMX9a1YCi+jGO2hsAkjDI4L2cRuFRxchZBid+5eVaHwJB/DffXEIRBUMjXELgFK3vMJnJXjfrylSv/wXDGrjIMmiJ9h3ptVbHO9nPWmP4mQZUSYwQMUA17m6n6CLPGraT+mz4BvaN+LRmctukAAAAASUVORK5CYII=)
+
+### CMS
+![Shopify](https://img.shields.io/badge/Shopify-181818?style=for-the-badge&logo=shopify&logoColor=7AB55C)
 
 ### Have experience 
 ![C++](https://img.shields.io/badge/C++-181818?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB)
+
+### Socials
+[![Telegram](https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/qcy_mm)
+[![YouTube](https://img.shields.io/badge/-YouTube-181818?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC78vBzchGJZGng897-mTysg)
+[![Instagram](https://img.shields.io/badge/-Instagram-181818?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/qcy.inst)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/qcy-mm)
