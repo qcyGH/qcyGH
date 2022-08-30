@@ -8,7 +8,7 @@
 ![SASS](https://img.shields.io/badge/SASS-181818?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JQuery](https://img.shields.io/badge/JQuery-181818?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Liquid](https://img.shields.io/badge/Liquid-181818?style=for-the-badge&logo=data:assets/liquid-logo.png&logoColor=0769AD)
+![Liquid](https://img.shields.io/badge/Liquid-181818?style=for-the-badge&logo=data:assets/liquid-logo.png;base64&logoColor=0769AD)
 
 ### Have experience 
 ![C++](https://img.shields.io/badge/C++-181818?style=for-the-badge&logo=cplusplus&logoColor=00599C)
