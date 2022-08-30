@@ -1,6 +1,6 @@
 ![Header](https://github.com/qcyGH/qcyGH/blob/master/assets/logo.png)
 
-## Junior frondend developer
+## Junior frondend web developer
 
 ### Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26)
