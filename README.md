@@ -2,6 +2,9 @@
 
 ## Junior frondend web developer
 
+### Pinned repositories
+[![Shopify theme](https://github-readme-stats.vercel.app/api/pin/?username=qcyGH&repo=shopify-theme--homemaid&theme=dark&icon_color=71aeeb&bg_color=181818&hide_border=true&border_radius=10)](https://github.com/qcyGH/shopify-theme--homemaid)
+
 ### Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -17,6 +20,12 @@
 ![C++](https://img.shields.io/badge/C++-181818?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB)
+
+### Stats
+
+[![Qcy GitHub stats](https://github-readme-stats.vercel.app/api?username=qcyGH&show_icons=true&theme=dark&icon_color=9171eb&bg_color=181818&hide_border=true&border_radius=10)](https://github.com/qcyGH/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qcyGH&layout=compact&theme=dark&icon_color=6940db&bg_color=181818&hide_border=true&border_radius=10&card_width=445)](https://github.com/qcyGH/github-readme-stats)
 
 ### Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/qcy_mm)
