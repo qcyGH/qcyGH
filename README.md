@@ -23,7 +23,7 @@
 
 ### Stats
 
-[![Qcy GitHub stats](https://github-readme-stats.vercel.app/api?username=qcyGH&show_icons=true&theme=dark&icon_color=9171eb&bg_color=181818&hide_border=true&border_radius=10)](https://github.com/qcyGH/github-readme-stats)
+[![Qcy GitHub stats](https://github-readme-stats.vercel.app/api?username=qcyGH&include_all_commits=true&count_private=true&hide=prs,issues&show_icons=true&theme=dark&icon_color=9171eb&bg_color=181818&hide_border=true&border_radius=10)](https://github.com/qcyGH/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qcyGH&layout=compact&theme=dark&icon_color=6940db&bg_color=181818&hide_border=true&border_radius=10&card_width=445)](https://github.com/qcyGH/github-readme-stats)
 
