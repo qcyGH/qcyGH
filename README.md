@@ -16,6 +16,14 @@
 ### CMS
 ![Shopify](https://img.shields.io/badge/Shopify-181818?style=for-the-badge&logo=shopify&logoColor=7AB55C)
 
+### Learning
+![React](https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Will learning
+![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/NextJS-181818?style=for-the-badge&logo=nextdotjs&logoColor=fffff)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
 ### Have experience 
 ![C++](https://img.shields.io/badge/C++-181818?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=239120)
