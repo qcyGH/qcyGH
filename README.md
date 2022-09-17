@@ -18,11 +18,11 @@
 
 ### Learning
 ![React](https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 ### Will learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Next.js](https://img.shields.io/badge/NextJS-181818?style=for-the-badge&logo=nextdotjs&logoColor=fffff)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 ### Have experience 
 ![C++](https://img.shields.io/badge/C++-181818?style=for-the-badge&logo=cplusplus&logoColor=00599C)
