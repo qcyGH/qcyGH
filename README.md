@@ -25,6 +25,7 @@
 ![Next.js](https://img.shields.io/badge/NextJS-181818?style=for-the-badge&logo=nextdotjs&logoColor=fffff)
 
 ### Have experience 
+![Linux](https://img.shields.io/badge/Linux-181818?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![C++](https://img.shields.io/badge/C++-181818?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB)
