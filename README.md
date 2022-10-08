@@ -4,6 +4,7 @@
 
 ### Pinned repositories
 [![Shopify theme](https://github-readme-stats.vercel.app/api/pin/?username=qcyGH&repo=shopify-theme--homemaid&theme=dark&icon_color=71aeeb&bg_color=181818&hide_border=true&border_radius=10)](https://github.com/qcyGH/shopify-theme--homemaid)
+[![Study react](https://github-readme-stats.vercel.app/api/pin/?username=qcyGH&repo=study-react&theme=dark&icon_color=71aeeb&bg_color=181818&hide_border=true&border_radius=10)](https://github.com/qcyGH/study-react)
 
 ### Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26)
