@@ -10,6 +10,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/SASS-181818?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-181818?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React Base](https://img.shields.io/badge/React_Base-181818?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,6 +24,7 @@
 ![React Advanced](https://img.shields.io/badge/React_Advanced-181818?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Will learning
+![Redux](https://img.shields.io/badge/Redux-181818?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Next.js](https://img.shields.io/badge/NextJS-181818?style=for-the-badge&logo=nextdotjs&logoColor=fffff)
 
