@@ -1,6 +1,6 @@
 ![Header](https://github.com/qcyGH/qcyGH/blob/master/assets/logo.png)
 
-## Junior frondend web developer
+## Frontend web developer
 
 ### Pinned repositories
 [![Shopify theme](https://github-readme-stats.vercel.app/api/pin/?username=qcyGH&repo=shopify-theme--homemaid&theme=dark&icon_color=71aeeb&bg_color=181818&hide_border=true&border_radius=10)](https://github.com/qcyGH/shopify-theme--homemaid)
