@@ -23,6 +23,7 @@
 
 ### Learning
 ![Next.js](https://img.shields.io/badge/NextJS-181818?style=for-the-badge&logo=nextdotjs&logoColor=fffff)
+![MySQL](https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=fffff)
 
 ### Will learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6)
