@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React Advanced](https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-181818?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Next.js](https://img.shields.io/badge/NextJS-181818?style=for-the-badge&logo=nextdotjs&logoColor=fffff)
 ![HTML5](https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/SASS-181818?style=for-the-badge&logo=sass&logoColor=CC6699)
@@ -18,13 +19,13 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![JQuery](https://img.shields.io/badge/JQuery-181818?style=for-the-badge&logo=jquery&logoColor=0769AD)
 ![Liquid](https://img.shields.io/badge/Liquid-181818?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGSSURBVHgBrZK5SkNREIb/e7MoKK64obhgIXaWWvkIWtqKoIiF72GliNGYwtIX0EIQfAALI4KNTRoXsEliSMTk3vidnBsSTCSKDsw5c2b9Z+ZIfySnufpgTor6kv8hlTulUBn5Sdp4bpEgPk7ApBS5kdbeGhPvT0lhkm2mGm06JHBnWC0pNg/CZn67M/oxxRabVP8NnfTYOdGQVZT7OVLS0TbyreTioAX4nuExJ6cbZqAaxf4qre5JiYyJdG2CaMjeziSqWZyWpNIp7wm4A0MfOm43yXsw8PUrp30cryBmJW+E+yXAOUT1aQKvrLMT+JbZglMgWZe0fhG0IPbrpdn3O3IRmWQh4/RAAOv0aMn36BjZMTKInfa6FkrBHDxTPY+xzyYt5XCmkos+kreyHyBMX9a1YCi+jGO2hsAkjDI4L2cRuFRxchZBid+5eVaHwJB/DffXEIRBUMjXELgFK3vMJnJXjfrylSv/wXDGrjIMmiJ9h3ptVbHO9nPWmP4mQZUSYwQMUA17m6n6CLPGraT+mz4BvaN+LRmctukAAAAASUVORK5CYII=)
+![MySQL](https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=fffff)
 
 ### CMS
 ![Shopify](https://img.shields.io/badge/Shopify-181818?style=for-the-badge&logo=shopify&logoColor=7AB55C)
 
 ### Learning
-![Next.js](https://img.shields.io/badge/NextJS-181818?style=for-the-badge&logo=nextdotjs&logoColor=fffff)
-![MySQL](https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=fffff)
+
 
 ### Will learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6)
