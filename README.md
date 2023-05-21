@@ -25,10 +25,10 @@
 ![Shopify](https://img.shields.io/badge/Shopify-181818?style=for-the-badge&logo=shopify&logoColor=7AB55C)
 
 ### Learning
-
+![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 ### Will learning
-![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
 
 ### Have experience 
 ![Linux](https://img.shields.io/badge/Linux-181818?style=for-the-badge&logo=linux&logoColor=FCC624)
