@@ -45,6 +45,6 @@
 ### Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/qcy_mm)
 [![Instagram](https://img.shields.io/badge/-Instagram-181818?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/qcy.inst)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/qcy-mir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/qcy-mir)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-181818?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/qcy_)
 [![YouTube](https://img.shields.io/badge/-YouTube-181818?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC78vBzchGJZGng897-mTysg)
